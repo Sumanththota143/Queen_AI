@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'reminders',
     'tasks',
     'documents',
+    
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
